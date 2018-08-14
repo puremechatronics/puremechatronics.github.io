@@ -1,8 +1,8 @@
 # Site settings
-title: PureMachatronics
-subtitle: by HTML5 UP
+title: Pure-Mechatronics
+subtitle: Lead you to excellence.
 email: info@puremechatronics.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+description:
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://puremechatronics.com' # the base hostname & protocol for your site
 author:
